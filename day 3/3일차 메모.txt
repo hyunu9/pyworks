@@ -1,0 +1,46 @@
+ print("합격")
+else:
+ print("불합격")
+
+i=0
+while i < 10:
+ i+= 1
+ print(i)
+
+#반복 조건문
+while True:
+ i+= 1
+ print(i)
+
+예외 처리(오류 처리)
+try:
+
+expect:
+ print("숫자를 입력해주세요")
+
+자리 배치
+입장객:22
+좌석열:5
+
+줄(행) 수: 4 (나누어 떨어진다. 나머지0)
+입장객 % 좌석열 == 0
+
+줄수:5(나머지 0이 아닌경우 - 1,2,3,4
+줄수 +1
+
+숫자 더하기
+sum_v =0
+i = 1
+i+= 1
+sum_v = sum+v+i
+
+문자더하기
+result_val=""
+
+current+val =f'{dan} x {i} = {dan * i}\n'
+result_val += current_val
+print(result_val)
+
+자료형 - 숫자,문자,부울
+자료구조 - 리스트,딕셔너리,튜플
+
